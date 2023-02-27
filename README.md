@@ -1,4 +1,4 @@
-# Automatic Plant Watering System#
+# Automatic Plant Watering System
 
 This project is an automatic plant watering system that utilizes various sensors and a custom-designed control box to regulate and maintain the proper moisture level of plants. The system includes a solenoid valve connected to a water source, a soil moisture sensor, a raindrop sensor, and a 20x4 LCD with various menu displays.
 
