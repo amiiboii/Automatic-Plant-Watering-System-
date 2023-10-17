@@ -1,4 +1,4 @@
-# Automatic Plant Watering System
+[APW app design.pdf](https://github.com/amiiboii/Automatic-Plant-Watering-System-/files/12949719/APW.app.design.pdf)# Automatic Plant Watering System
 
 This project is an automatic plant watering system that utilizes various sensors and a custom-designed control box to regulate and maintain the proper moisture level of plants. The system includes a solenoid valve connected to a water source, a soil moisture sensor, a raindrop sensor, and a 20x4 LCD with various menu displays.
 
@@ -16,6 +16,8 @@ To set up the automatic plant watering system, follow the instructions below:
 * Install the control box and connect the LCD display to the control box.
 * Flash the code to the deserd arduino amd Do all the wiring
 * Test the system manually and adjust the settings as necessary.
+
+
 
 
 ## Usage
@@ -36,6 +38,12 @@ The automatic plant watering system is easy to use and can be customized to meet
 11. Capacitors - For the debounce
 12. LEDS - to show on/off and other status data
 13. I2C - for easer wiring the LCD
+
+## Upcoming updates
+We're excited to announce that our project is set to embrace the Internet of Things (IoT) in the near future. With IoT integration on the horizon, our system will become even more dynamic and accessible. IoT components will enable real-time data monitoring, control, and remote access, making it easier for users to interact with our system from anywhere in the world. By harnessing the power of platforms like Blynk and Firebase, we're paving the way for a more robust, user-friendly experience. Stay tuned for these exciting IoT developments that will take our project to the next level of connectivity and convenience.
+
+[APW app design.pdf](https://github.com/amiiboii/Automatic-Plant-Watering-System-/files/12949741/APW.app.design.pdf)
+
 
 ## Conclusion
 The automatic plant watering system is a highly customizable solution for maintaining healthy plants. With the solenoid valve, soil moisture sensor, raindrop sensor, and LCD display, the system ensures that plants are watered at the appropriate time and in the right amount. The system is easy to install and use, making it a great solution for both novice and experienced gardeners.
